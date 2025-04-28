@@ -1,5 +1,7 @@
 ---
 title: "The hybrid velocity prediction model for pipeline detection based on bidirectional long short-term memory and an improved attention mechanism"
+collection: publications
+category: manuscripts
 publisher: "Engineering Applications of Artificial Intelligence",
 permalink: https://doi.org/10.1016/j.engappai.2025.110855
 date: 2025-8

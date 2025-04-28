@@ -33,35 +33,26 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Northeastern University",
+      "area": "M.S. in Mechanical Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2023.09",
+      "endDate": "Present",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Shandong University of Technology",
+      "area": "B.S. in Mechatronic Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2019.09",
+      "endDate": "2023.06",
       "gpa": null,
       "courses": []
     }
   ],
   "skills": [],
-  "languages": [],
+  "languages": ["China, English"],
   "interests": [],
   "references": [],
   "publications": [

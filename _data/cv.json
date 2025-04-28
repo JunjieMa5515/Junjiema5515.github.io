@@ -57,32 +57,17 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "The hybrid velocity prediction model for pipeline detection based on bidirectional long short-term memory and an improved attention mechanism",
+      "publisher": "Engineering Applications of Artificial Intelligence",
+      "releaseDate": "2025-8",
+      "website": "https://doi.org/10.1016/j.engappai.2025.110855",
+      "Abstract": "To enhance the speed prediction accuracy of pipeline inspection robots in variable pipeline environments, this study designed a two - stage multi - temporal source sensor data preprocessing and developed a novel hybrid prediction model. The model demonstrated excellent prediction accuracy and precision across different conditions. (My contributions- 80%: I am involved in original writing, data visualization, experimental validation, experimental platform setup, and data analysis.)"
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "A Deep Reinforcement Learning Approach for Speed Fluctuation Control in Multiple Time-Varying Systems.",
+      "publisher": "Expert Systems with Applications (IF:7.5, Q1)",
+      "summary": "This paper proposes a DRL strategy and action selection mechanism for subsea pipeline robots to reduce the impact of speed fluctuations on monitoring data. The method was pre-trained in the Isaac Sim virtual environment and then deployed in an edge computing environment. The results show that this approach outperforms the control models in both virtual and real environments. (My contributions- 90%: I participated in original writing, data visualization, construction of physical experimental platforms, virtual environment setup, experimental validation, and data analysis.)",
+      "state":"Under Review"
     }
   ],
   "presentations": [
@@ -112,22 +97,6 @@
       "event": "Testing Institute of America 2014 Annual Conference",
       "date": "2014-03-01",
       "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
       "description": ""
     }
   ],

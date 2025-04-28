@@ -58,7 +58,7 @@
   "publications": [
     {
       "name": "The hybrid velocity prediction model for pipeline detection based on bidirectional long short-term memory and an improved attention mechanism",
-      "publisher": "Engineering Applications of Artificial Intelligence",
+      "publisher": "Engineering Applications of Artificial Intelligence (IF:7.5, Q1)",
       "releaseDate": "2025-8",
       "website": "https://doi.org/10.1016/j.engappai.2025.110855",
       "Abstract": "To enhance the speed prediction accuracy of pipeline inspection robots in variable pipeline environments, this study designed a two - stage multi - temporal source sensor data preprocessing and developed a novel hybrid prediction model. The model demonstrated excellent prediction accuracy and precision across different conditions. (My contributions- 80%: I am involved in original writing, data visualization, experimental validation, experimental platform setup, and data analysis.)"

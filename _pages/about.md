@@ -9,12 +9,12 @@ redirect_from:
 --
 =====
 
-About me(Autobiography)
+About me_Autobiography
 ======
 
   My name is Ma Junjie. I was born in Zoucheng City, Shandong Province. In 2019, I began my undergraduate studies at [Shandong University of Technology](https://www.sdut.edu.cn/). After graduating in 2023, I was admitted to [the School of Mechanical Engineering and Automation](http://www.me.neu.edu.cn/), [Northeastern University](https://www.neu.edu.cn/). I am now pursuing my master's degree under the guidance of Professor Song Guiqiu as part of the team led by Academician of the Chinese Academy of Sciences [Wen Bangchun](https://baike.baidu.com/item/%E9%97%BB%E9%82%A6%E6%A4%BF/3820254). I am currently in the postgraduate stage, dedicated to learning and research in the field of mechanical engineering, with the aim of making contributions to the development of this discipline.
 
-About me(Interests)
+About me_Interests
 ======
 
 

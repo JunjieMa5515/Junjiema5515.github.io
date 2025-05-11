@@ -9,9 +9,14 @@ redirect_from:
 --
 =====
 
-About me
+About me(Autobiography)
 ======
-  I am from Zoucheng City, Shandong Province, China. Currently, I am pursuing a Master's degree at [the School of Mechanical Engineering and Automation](http://www.me.neu.edu.cn/), [Northeastern University](https://www.neu.edu.cn/), under the supervision of Professor Song Guiqiu. I am a member of the research team led by Professor [Wen Bangchun](https://baike.baidu.com/item/%E9%97%BB%E9%82%A6%E6%A4%BF/3820254), an academician of the Chinese Academy of Sciences.
+
+  My name is Ma Junjie. I was born in Zoucheng City, Shandong Province. In 2019, I began my undergraduate studies at [Shandong University of Technology](https://www.sdut.edu.cn/). After graduating in 2023, I was admitted to [the School of Mechanical Engineering and Automation](http://www.me.neu.edu.cn/), [Northeastern University](https://www.neu.edu.cn/). I am now pursuing my master's degree under the guidance of Professor Song Guiqiu as part of the team led by Academician of the Chinese Academy of Sciences [Wen Bangchun](https://baike.baidu.com/item/%E9%97%BB%E9%82%A6%E6%A4%BF/3820254). I am currently in the postgraduate stage, dedicated to learning and research in the field of mechanical engineering, with the aim of making contributions to the development of this discipline.
+
+About me(Interests)
+======
+
 
 Publications
 ======

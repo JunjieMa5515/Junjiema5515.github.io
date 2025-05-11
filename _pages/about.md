@@ -15,8 +15,8 @@ About me
 
 Publications
 ======
-[1](https://doi.org/10.1016/j.engappai.2025.110855). Junjie Ma, Yiming Li*, Zhongchao Zhang, Tongshan Liu, and Guiqiu Song. “The hybrid velocity prediction model for pipeline detection based on Bidirectional Long Short-Term Memory and and improved attention mechanism.” [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence) (IF: 7.5, Q1), 2025. DOI: 10.1016/j.engappai.2025.110855.
-
+[[J1]](https://doi.org/10.1016/j.engappai.2025.110855). Junjie Ma, Yiming Li*, Zhongchao Zhang, Tongshan Liu, and Guiqiu Song. “The hybrid velocity prediction model for pipeline detection based on Bidirectional Long Short-Term Memory and and improved attention mechanism.” [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence) (IF: 7.5, Q1), 2025. DOI: 10.1016/j.engappai.2025.110855.
+[[J2]]. Junjie Ma, Yiming Li*, Zhongchao Zhang, and Guiqiu Song. “A Deep Reinforcement Learning Approach for Speed Fluctuation Control in Multiple Time-Varying Systems.” [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications) (IF:7.5, Q1).
 Site-wide configuration
 ------
 

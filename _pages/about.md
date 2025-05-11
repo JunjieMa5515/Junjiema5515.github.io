@@ -11,6 +11,7 @@ redirect_from:
 
 About me
 ======
+  I am from Zoucheng City, Shandong Province, China. Currently, I am pursuing a Master's degree at [the School of Mechanical Engineering and Automation](http://www.me.neu.edu.cn/), [Northeastern University](https://www.neu.edu.cn/), under the supervision of Professor Song Guiqiu. I am a member of the research team led by Professor Wen Bangchun, an academician of the Chinese Academy of Sciences.
 
 Getting started
 ======

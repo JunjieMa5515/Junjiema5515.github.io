@@ -31,29 +31,22 @@ Certificates and Honors
 
 **2021-2022 China University Robot Competition**
 
-[1]. Apr. 2021 The 20th China University Robot Competition (2021) RoboMaster University League3V3 Competition (national) won the second prize;
-
-[2]. Aug. 2021 The 20th China University Robot Competition (2021) RoboMaster University Technical Challenge (North Division) won the first prize;
-
-[3]. Aug. 2021 The 20th China University Robot Competition (2021) RoboMaster University Technical Challenge (national) won the second prize;
-
-[4]. Jun. 2022 The 21th China University Robot Competition (2022) RoboMaster University Championship (Middle Division) won the second prize;
-
-[5]. Aug. 2022 The 21th China University Robot Competition (2022) RoboMaster University Technical Challenge (national) won the first prize;
+ [1]. Apr. 2021 The 20th China University Robot Competition (2021) RoboMaster University League3V3 Competition (national) won the second prize;
+ [2]. Aug. 2021 The 20th China University Robot Competition (2021) RoboMaster University Technical Challenge (North Division) won the first prize;
+ [3]. Aug. 2021 The 20th China University Robot Competition (2021) RoboMaster University Technical Challenge (national) won the second prize;
+ [4]. Jun. 2022 The 21th China University Robot Competition (2022) RoboMaster University Championship (Middle Division) won the second prize;
+ [5]. Aug. 2022 The 21th China University Robot Competition (2022) RoboMaster University Technical Challenge (national) won the first prize;
 
 **2020-2021 RoboWork (The China Robot Competition and RoboCup Open)**
 
-[6]. Oct. 2020 2020 RoboWork (The China Robot Competition and RoboCup Open) won the national second prize;
-
-[7]. Oct. 2021 2021 RoboWork (The China Robot Competition and RoboCup Open) won the national first prize;
+ [6]. Oct. 2020 2020 RoboWork (The China Robot Competition and RoboCup Open) won the national second prize;
+ [7]. Oct. 2021 2021 RoboWork (The China Robot Competition and RoboCup Open) won the national first prize;
 
 **2021-2022 The China Robot and Artificial Intelligence Competition**
 
-[8]. Aug.2021 The 23rd China Robot and Artificial Intelligence Competition won the national third prize;
-
-[9]. Aug.2022 The 24th China Robot and Artificial Intelligence Competition won the national first prize;
-
-[10]. Mar.2023 Outstanding Camp Member of Northeastern University Summer Camp, Class of 2023.
+ [8]. Aug.2021 The 23rd China Robot and Artificial Intelligence Competition won the national third prize;
+ [9]. Aug.2022 The 24th China Robot and Artificial Intelligence Competition won the national first prize;
+ [10]. Mar.2023 Outstanding Camp Member of Northeastern University Summer Camp, Class of 2023.
 
 Create content & metadata
 ------

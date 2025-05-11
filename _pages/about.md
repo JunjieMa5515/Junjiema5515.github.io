@@ -25,7 +25,7 @@ Certificates and Honors
 ------
 
 **2021-2022 China University Robot Competition**
-------
+
 [1]. Apr. 2021 The 20th China University Robot Competition (2021) RoboMaster University League3V3 Competition (national) won the second prize;
 [2]. Aug. 2021 The 20th China University Robot Competition (2021) RoboMaster University Technical Challenge (North Division) won the first prize;
 [3]. Aug. 2021 The 20th China University Robot Competition (2021) RoboMaster University Technical Challenge (national) won the second prize;
@@ -33,7 +33,7 @@ Certificates and Honors
 [5]. Aug. 2022 The 21th China University Robot Competition (2022) RoboMaster University Technical Challenge (national) won the first prize;
 
 **2020-2021 RoboWork (The China Robot Competition and RoboCup Open)**
-------
+
 [6]. Oct. 2020 2020 RoboWork (The China Robot Competition and RoboCup Open) won the national second prize;
 [7]. Oct. 2021 2021 RoboWork (The China Robot Competition and RoboCup Open) won the national first prize;
 

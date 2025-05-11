@@ -36,7 +36,6 @@ Certificates and Honors
 [8]. Aug.2021 The 23rd China Robot and Artificial Intelligence Competition won the national third prize;
 [9]. Aug.2022 The 24th China Robot and Artificial Intelligence Competition won the national first prize;
 [10]. Mar.2023 Outstanding Camp Member of Northeastern University Summer Camp, Class of 2023.
-
 Create content & metadata
 ------
 
